@@ -81,6 +81,7 @@
 
 
 .black{background-color:#000000;}
+/* https://hihayk.github.io/scale/#4/4/50/80/-25/0/20/14/3CA4BC/60/164/188/white */
 .blue-9{background-color:#1A3663;}
 .blue-8{background-color:#214E7A;}
 .blue-7{background-color:#2A6890;}
@@ -90,6 +91,7 @@
 .blue-3{background-color:#86CBDB;}
 .blue-2{background-color:#ADDDE8;}
 .blue-1{background-color:#D5EEF4;}
+/* https://hihayk.github.io/scale/#4/4/50/80/25/-17/20/14/FF900F/255/144/15/white */
 .yellow-9{background-color:#801000;}
 .yellow-8{background-color:#9F2702;}
 .yellow-7{background-color:#BF4405;}
@@ -99,6 +101,7 @@
 .yellow-3{background-color:#FFDE68;}
 .yellow-2{background-color:#FFF699;}
 .yellow-1{background-color:#FFFFCC;}
+/* https://hihayk.github.io/scale/#4/4/80/80/0/0/20/14/d1d1d1/209/209/209/white */
 .gray-9{background-color:#2A2A2A;}
 .gray-8{background-color:#545454;}
 .gray-7{background-color:#7D7D7D;}
@@ -108,6 +111,7 @@
 .gray-3{background-color:#E3E3E3;}
 .gray-2{background-color:#EDEDED;}
 .gray-1{background-color:#F6F6F6;}
+/* https://hihayk.github.io/scale/#4/4/50/80/-25/-25/20/14/EF4774/239/71/116/white */
 .magenta-9{background-color:#7D2C1E;}
 .magenta-8{background-color:#9B2C27;}
 .magenta-7{background-color:#B83139;}
@@ -117,6 +121,7 @@
 .magenta-3{background-color:#FA8C92;}
 .magenta-2{background-color:#FEB4B0;}
 .magenta-1{background-color:#FFDDD7;}
+/* https://hihayk.github.io/scale/#4/4/50/80/25/25/20/14/43BE5E/67/190/94/white */
 .green-9{background-color:#2B631D;}
 .green-8{background-color:#2E7B26;}
 .green-7{background-color:#2F9230;}
@@ -135,15 +140,16 @@
 .space-gray-3{background-color:#848081;}
 .space-gray-2{background-color:#ADABAC;}
 .space-gray-1{background-color:#D5D5D4;}
-.red-9{background-color:#000000;}
-.red-8{background-color:#370B0A;}
-.red-7{background-color:#6E1614;}
-.red-6{background-color:#A4201D;}
-.red-5{background-color:#DB2B27;}
-.red-4{background-color:#E25552;}
-.red-3{background-color:#E9807D;}
-.red-2{background-color:#F1AAA9;}
-.red-1{background-color:#F8D5D4;}
+/* https://hihayk.github.io/scale/#4/4/50/80/0/0/20/14/FA2434/250/36/52/white */
+.red-9{background-color:#800B14;}
+.red-8{background-color:#9F101B;}
+.red-7{background-color:#BF1522;}
+.red-6{background-color:#DE1C2B;}
+.red-5{background-color:#FA2434;}
+.red-4{background-color:#FF4C59;}
+.red-3{background-color:#FF7580;}
+.red-2{background-color:#FFA1A8;}
+.red-1{background-color:#FFCFD3;}
 
 
 .print-swatch{
